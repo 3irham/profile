@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+  font-family: tahoma, verdana, serif;
+}
+
+h1 {
+  font-family: 'Yellowtail', cursive;
+  font-size: 455%;
+  color: #62959C;
+}
+
+h2 {
+  color: #62959C;
+  font-size: 1.75rem;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: lightblue;
+  position: relative;
+  padding-top: 100px;
+}
+
+.skill-row{
+  width: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.img-management{
+  width: 25%;
+  float: left;
+}
